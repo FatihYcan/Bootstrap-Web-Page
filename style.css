@@ -1,5 +1,5 @@
 .banner {
-  background: url(/img/banner.jpeg) no-repeat center center;
+  background: url(./img/banner.jpeg) no-repeat center center;
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -53,7 +53,7 @@
 }
 
 .contact {
-  background: url(/img/map.jpeg) no-repeat center center;
+  background: url(./img/map.jpeg) no-repeat center center;
   background-size: cover;
   /* height: 75vh;*/
   display: flex;
