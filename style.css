@@ -1,0 +1,63 @@
+.banner {
+  background: url(/img/banner.jpeg) no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: purple;
+}
+
+.round {
+  color: white;
+  display: inline-block;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+.row i {
+  position: relative;
+  top: 30px;
+}
+
+.fas {
+  font-size: 80px;
+}
+
+.our img {
+  /* border: 2px solid red; */
+  border: 8px solid grey;
+  width: 250px;
+}
+
+.our p {
+  margin-bottom: -10px;
+}
+
+.our i {
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  background: black;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 75px;
+}
+
+.web img {
+  width: 125px;
+}
+
+.contact {
+  background: url(/img/map.jpeg) no-repeat center center;
+  background-size: cover;
+  /* height: 75vh;*/
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  color: white;
+}
