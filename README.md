@@ -46,7 +46,6 @@ Bu proje, Harvey Tech adlı bir IT şirketi için Bootstrap kullanılarak oluşt
 - **Font Awesome:** İkonlar.
 - **JavaScript:** Dinamik işlevsellik için Bootstrap bileşenleri.
 
-![cw](./img/bts.jpg)
-
+https://github.com/user-attachments/assets/578922ae-a34d-4d89-8667-9a3443e271d1
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Bootstrap-Web-Page/)
