@@ -1,4 +1,4 @@
-#Harvey Tech Web Page
+# Harvey Tech Web Page
 
 This project is a web page built using Bootstrap for an IT company called Harvey Tech. The page allows users to access services, portfolio, about, team and contact information.
 
