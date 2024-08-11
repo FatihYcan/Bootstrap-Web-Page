@@ -22,21 +22,50 @@ This project is a web page built using Bootstrap for an IT company called Harvey
 - **Font Awesome:** Icons.
 - **JavaScript:** Bootstrap components for dynamic functionality.
 
-# Harvey Tech Web Page
 
-Bu proje, Harvey Tech adlı bir IT şirketi için Bootstrap kullanılarak oluşturulmuş bir web sayfasıdır. Sayfa, kullanıcıların hizmetler, portföy, hakkında, ekip ve iletişim bilgilerine erişmelerini sağlar.
+
+
+
+# Bootstrap Web Page
+
+Bu proje, Bootstrap 5 ve Font Awesome kullanılarak geliştirilmiş modern bir web sayfasını temsil eder. Sayfa, çeşitli bölümlerle (hizmetler, portföy, hakkımızda, ekip, iletişim) zenginleştirilmiş, responsive (duyarlı) bir tasarıma sahiptir.
+
+## İçindekiler
+
+- [Proje Tanımı](#proje-tanımı)
+- [Özellikler](#özellikler)
+- [Teknolojiler](#teknolojiler)
+- [Kurulum](#kurulum)
+- [Kullanım](#kullanım)
+- [Katkıda Bulunanlar](#katkıda-bulunanlar)
+- [Lisans](#lisans)
+
+## Proje Tanımı
+
+Bu proje, Harvey Tech adlı bir teknoloji şirketinin tanıtım sayfasıdır. Sayfa, Bootstrap 5 ile oluşturulmuş ve çeşitli stil özellikleri için Font Awesome kullanılmıştır.
 
 ## Özellikler
 
-- **Navbar:** Sayfanın her yerinden erişilebilen navigasyon menüsü.
-- **Banner:** Şirketin ana mesajını içeren tam ekran kaplama banner.
-- **Services:** Şirketin sunduğu hizmetleri tanıtan bölüm.
-- **Portfolio:** Şirketin gerçekleştirdiği projeleri sergileyen bölüm.
-- **About Us:** Şirket hakkında bilgi veren bölüm.
-- **Our Team:** Şirketin ekip üyelerini tanıtan bölüm.
-- **Web Clients:** Şirketin müşterileri veya işbirlikçilerini tanıtan bölüm.
-- **Contact Us:** Kullanıcıların iletişime geçebileceği form.
-- **Footer:** Telif hakkı bilgilerini içeren alt bilgi.
+- **Duyarlı Tasarım**: Sayfa, farklı ekran boyutlarına uyum sağlamak için Bootstrap 5'in grid sistemini kullanır ve medya sorguları içerir.
+-- **Modern İkonlar**: Font Awesome kütüphanesi ile sosyal medya ve diğer simgeler kullanılır.
+- **Görsel Arka Planlar**: Banner ve iletişim bölümü gibi önemli alanlar için yüksek kaliteli görsel arka planlar kullanılır.
+- **Kullanıcı Dostu Butonlar**: Butonlar, dikkat çekici renkler ve animasyonlar ile kullanıcı etkileşimini teşvik eder.
+
+## Teknolojiler
+
+- **HTML**: Sayfanın yapısını oluşturur.
+- **CSS**: Sayfanın stilini belirler, özelleştirilmiş stil ve animasyonlar ekler.
+- **Bootstrap 5**: Responsive tasarım ve UI bileşenleri sağlar.
+- **Font Awesome**: İkonlar ve sosyal medya simgeleri için kullanılır.
+
+
+
+
+
+
+
+
+
 
 ## Teknolojiler
 
